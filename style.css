@@ -1,0 +1,49 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(189, 123, 1);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  font-family: cursive;
+  font-size: 24px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  margin-left: 300px;
+
+}
+
+header {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  top: 0%;
+  color: white;
+  font-family: cursive;
+}
+
+header img {
+  width: 100%;
+}
+
+.Set1 {
+  display: flex;
+  width: 100%;
+}
+
+.Right img {
+  width: 100%;
+}
+
+.Left img {
+  width: 100%;
+}
